@@ -1,16 +1,24 @@
-## Hi there 👋
+I want to build/update the README.md for my GitHub profile repo (github.com/vamshi-150413).
 
-<!--
-**vamshi-150413/vamshi-150413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Please do the following, and show me the full README content before making any commit:
 
-Here are some ideas to get you started:
+1. Header: Name "Bodige Vamshi", short tagline as a Computer Science graduate
+   interested in full-stack development and machine learning.
+2. About Me section: 2-3 lines — CS graduate, built ML projects (phishing
+   detection, AI voice assistant), learning full-stack development.
+3. Skills section: badges for Python, Java, JavaScript, HTML, CSS, MySQL,
+   Flask, Git/GitHub — use shields.io badge style.
+4. Projects section: Phishing Website Detection System and AI-Based Laptop
+   Voice Assistant, each with a one-line description and a link to the repo.
+5. GitHub Stats section: add my GitHub stats card and top languages card
+   using github-readme-stats, with my actual username "vamshi-150413" in
+   all URLs.
+6. Connect section: link to my LinkedIn (linkedin.com/in/vamshi-bodige-145206371)
+   and email.
+7. Keep the tone clean and professional, minimal emoji use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Rules:
+- Double-check every badge URL and stats card URL actually resolves before
+  including it.
+- Show me the complete README as a draft first.
+- Do NOT commit or push anything until I explicitly say "commit this."
